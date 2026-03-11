@@ -45,7 +45,7 @@ Web-based system for managing student attendance using Java and SQL.
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta84444&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta8444&show_icons=true&theme=radical)
 
 ---
 
@@ -58,4 +58,4 @@ GitHub
 https://github.com/ayush84444
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ayush84444/ayushgupta84444/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ayush8444/ayushgupta8444/blob/output/github-contribution-grid-snake.svg)
