@@ -58,6 +58,6 @@ GitHub
 https://github.com/ayushgupta84444
 
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Matrix
 
 ![snake gif](https://raw.githubusercontent.com/ayushgupta8444/ayushgupta8444/output/github-contribution-grid-snake.svg)
