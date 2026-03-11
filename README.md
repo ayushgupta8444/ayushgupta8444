@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Ayush Gupta
 
-<!--
-**ayushgupta8444/ayushgupta8444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | AI & Full Stack Enthusiast  
+🚀 Passionate about building scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.E. Information Science Engineering – Atria Institute of Technology
+- 💡 Interested in **AI, Machine Learning & Full Stack Development**
+- 🌱 Currently learning **TypeScript, Next.js & Advanced DSA**
+- 🛠️ Love building real-world projects
+
+---
+
+## 🚀 Tech Stack
+
+### Programming
+Java | C++ | Python | JavaScript
+
+### Frontend
+HTML | CSS | React.js | Tailwind CSS
+
+### Backend
+Java (Servlets, JDBC)
+
+### Database
+MySQL | MongoDB
+
+### Tools
+Git | VS Code | Eclipse | IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 AI Handwriting Analyzer
+AI-based handwriting analysis using machine learning and image processing.
+
+### 📊 Student Attendance Management System
+Web-based system for managing student attendance using Java and SQL.
+
+---
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush84444&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/ayush-gupta-b38836278
+
+GitHub  
+https://github.com/ayush84444
