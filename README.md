@@ -56,3 +56,6 @@ https://www.linkedin.com/in/ayush-gupta-b38836278
 
 GitHub  
 https://github.com/ayush84444
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ayush84444/ayush84444/blob/output/github-contribution-grid-snake.svg)
