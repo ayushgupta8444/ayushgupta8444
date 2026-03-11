@@ -58,4 +58,6 @@ GitHub
 https://github.com/ayush84444
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ayush8444/ayushgupta8444/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/ayushgupta8444/ayushgupta8444/output/github-contribution-grid-snake.svg)
