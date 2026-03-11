@@ -55,7 +55,7 @@ LinkedIn
 https://www.linkedin.com/in/ayush-gupta-b38836278
 
 GitHub  
-https://github.com/ayush84444
+https://github.com/ayushgupta84444
 
 
 ## 🐍 Contribution Snake
